@@ -6,7 +6,7 @@
 ---
 
 ## 📂 저장소 구조
-- 🖐 [Arduino 코드](https://github.com/아이디/smartglove-arduino)  
+- 🖐 [Arduino 코드](https://github.com/rOwOq/smartglove-arduino)  
 - 🌐 [Server 코드](https://github.com/아이디/smartglove-server)  
 - 📱 [Flutter 앱 코드](https://github.com/아이디/smartglove-app)  
 
