@@ -8,7 +8,7 @@
 ## 📂 저장소 구조
 - 🖐 [Arduino 코드](https://github.com/rOwOq/smartglove-arduino)  
 - 🌐 [Server 코드](https://github.com/rOwOq/smartglove-server/blob/main/README.md)  
-- 📱 [Flutter 앱 코드](https://github.com/아이디/smartglove-app)  
+- 📱 [Flutter 앱 코드](https://github.com/rOwOq/smartglove-app/blob/main/README.md)  
 
 ---
 
